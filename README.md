@@ -1,6 +1,6 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/009/233/542/non_2x/data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-and-etc-illustration-concept-vector.jpg)
 <h1 align="center">Hi 👋, I'm Nick Patel</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h3 align="center">A passionate data analyst from Pennsylvania</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npatel1175&label=Profile%20views&color=0e75b6&style=flat" alt="npatel1175" /> </p>
