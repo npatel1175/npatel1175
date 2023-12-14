@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npatel1175&label=Profile%20views&color=0e75b6&style=flat" alt="npatel1175" /> </p>
-
+    
 - 🔭 I’m currently **looking for employment**
 
-- 🌱 I’m currently learning **more about Python, JavaScript, and Data Science** 
+- 🌱 I’m currently learning **more about Python, JavaScript, and Data Science**      
 
-- 💬 Ask me about **SQL, Tableau, Excel, Pandas, Seaborn, Matplotlib, Power BI**
+- 💬 Ask me about **SQL, Tableau, Excel, Pandas, Seaborn, Matplotlib, Power BI** 
 
 - 📫 How to reach me **nickp1175@gmail.com**
-
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nick-patel-9850391b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nick-patel-9850391b5" height="30" width="40" /></a>
