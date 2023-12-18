@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nick Patel</h1>
 <h3 align="center">A passionate data analyst from Pennsylvania. I graduated with a bachelor's degree in information systems in May 2023, looking for entry-level work and aiming to grow as an analyst.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
-
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npatel1175&label=Profile%20views&color=0e75b6&style=flat" alt="npatel1175" /> </p>
     
 - 🔭 I’m currently **looking for employment**
