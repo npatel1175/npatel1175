@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **SQL, Tableau, Excel, Pandas, Seaborn, Matplotlib, Power BI**   
 
-- 📫 How to reach me **nickp1175@gmail.com**
+- 📫 How to reach me **nickp1175@gmail.com**   
       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
