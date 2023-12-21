@@ -8,7 +8,7 @@
 - 🔭 I’m currently **looking for employment**
 
 - 🌱 I’m currently learning **more about Python, JavaScript, and Data Science**           
-
+   
 - 💬 Ask me about **SQL, Tableau, Excel, Pandas, Seaborn, Matplotlib, Power BI**   
 
 - 📫 How to reach me **nickp1175@gmail.com**   
