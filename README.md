@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npatel1175&label=Profile%20views&color=0e75b6&style=flat" alt="npatel1175" /> </p>
     
 - 🔭 I’m currently **looking for employment**   
- 
+  
 - 🌱 I’m currently learning **more about Python, JavaScript, and Data Science**                
         
 - 💬 Ask me about **SQL, Tableau, Excel, Pandas, Seaborn, Matplotlib, Power BI**       
